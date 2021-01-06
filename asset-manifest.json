@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/testapp/static/css/main.526bb6bb.chunk.css",
-    "main.js": "/testapp/static/js/main.fac6f9f5.chunk.js",
-    "main.js.map": "/testapp/static/js/main.fac6f9f5.chunk.js.map",
-    "runtime-main.js": "/testapp/static/js/runtime-main.02b30c50.js",
-    "runtime-main.js.map": "/testapp/static/js/runtime-main.02b30c50.js.map",
-    "static/js/2.fdeaa82c.chunk.js": "/testapp/static/js/2.fdeaa82c.chunk.js",
-    "static/js/2.fdeaa82c.chunk.js.map": "/testapp/static/js/2.fdeaa82c.chunk.js.map",
-    "static/js/3.4fad8e8f.chunk.js": "/testapp/static/js/3.4fad8e8f.chunk.js",
-    "static/js/3.4fad8e8f.chunk.js.map": "/testapp/static/js/3.4fad8e8f.chunk.js.map",
+    "main.css": "/testapp/static/css/main.dea1b02e.chunk.css",
+    "main.js": "/testapp/static/js/main.126dc1be.chunk.js",
+    "main.js.map": "/testapp/static/js/main.126dc1be.chunk.js.map",
+    "runtime-main.js": "/testapp/static/js/runtime-main.95e718f1.js",
+    "runtime-main.js.map": "/testapp/static/js/runtime-main.95e718f1.js.map",
+    "static/css/2.191e836a.chunk.css": "/testapp/static/css/2.191e836a.chunk.css",
+    "static/js/2.6db0ce69.chunk.js": "/testapp/static/js/2.6db0ce69.chunk.js",
+    "static/js/2.6db0ce69.chunk.js.map": "/testapp/static/js/2.6db0ce69.chunk.js.map",
+    "static/js/3.317f74ba.chunk.js": "/testapp/static/js/3.317f74ba.chunk.js",
+    "static/js/3.317f74ba.chunk.js.map": "/testapp/static/js/3.317f74ba.chunk.js.map",
     "index.html": "/testapp/index.html",
-    "static/css/main.526bb6bb.chunk.css.map": "/testapp/static/css/main.526bb6bb.chunk.css.map",
-    "static/js/2.fdeaa82c.chunk.js.LICENSE.txt": "/testapp/static/js/2.fdeaa82c.chunk.js.LICENSE.txt",
+    "static/css/2.191e836a.chunk.css.map": "/testapp/static/css/2.191e836a.chunk.css.map",
+    "static/css/main.dea1b02e.chunk.css.map": "/testapp/static/css/main.dea1b02e.chunk.css.map",
+    "static/js/2.6db0ce69.chunk.js.LICENSE.txt": "/testapp/static/js/2.6db0ce69.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/testapp/static/media/outline-icons.ddae9b1b.woff",
     "static/media/buscar.adc3c2d1.png": "/testapp/static/media/buscar.adc3c2d1.png",
     "static/media/logo.6ce24c58.svg": "/testapp/static/media/logo.6ce24c58.svg",
     "static/media/stats.88013448.png": "/testapp/static/media/stats.88013448.png",
     "static/media/tarea.cb92cb86.png": "/testapp/static/media/tarea.cb92cb86.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.02b30c50.js",
-    "static/js/2.fdeaa82c.chunk.js",
-    "static/css/main.526bb6bb.chunk.css",
-    "static/js/main.fac6f9f5.chunk.js"
+    "static/js/runtime-main.95e718f1.js",
+    "static/css/2.191e836a.chunk.css",
+    "static/js/2.6db0ce69.chunk.js",
+    "static/css/main.dea1b02e.chunk.css",
+    "static/js/main.126dc1be.chunk.js"
   ]
 }
