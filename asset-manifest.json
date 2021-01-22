@@ -1,30 +1,26 @@
 {
   "files": {
-    "main.css": "/testapp/static/css/main.dea1b02e.chunk.css",
-    "main.js": "/testapp/static/js/main.126dc1be.chunk.js",
-    "main.js.map": "/testapp/static/js/main.126dc1be.chunk.js.map",
-    "runtime-main.js": "/testapp/static/js/runtime-main.95e718f1.js",
-    "runtime-main.js.map": "/testapp/static/js/runtime-main.95e718f1.js.map",
-    "static/css/2.191e836a.chunk.css": "/testapp/static/css/2.191e836a.chunk.css",
-    "static/js/2.6db0ce69.chunk.js": "/testapp/static/js/2.6db0ce69.chunk.js",
-    "static/js/2.6db0ce69.chunk.js.map": "/testapp/static/js/2.6db0ce69.chunk.js.map",
-    "static/js/3.317f74ba.chunk.js": "/testapp/static/js/3.317f74ba.chunk.js",
-    "static/js/3.317f74ba.chunk.js.map": "/testapp/static/js/3.317f74ba.chunk.js.map",
+    "main.css": "/testapp/static/css/main.edb08bb3.chunk.css",
+    "main.js": "/testapp/static/js/main.acfb429b.chunk.js",
+    "main.js.map": "/testapp/static/js/main.acfb429b.chunk.js.map",
+    "runtime-main.js": "/testapp/static/js/runtime-main.a8d000ef.js",
+    "runtime-main.js.map": "/testapp/static/js/runtime-main.a8d000ef.js.map",
+    "static/css/2.a1df276a.chunk.css": "/testapp/static/css/2.a1df276a.chunk.css",
+    "static/js/2.2889d891.chunk.js": "/testapp/static/js/2.2889d891.chunk.js",
+    "static/js/2.2889d891.chunk.js.map": "/testapp/static/js/2.2889d891.chunk.js.map",
+    "static/js/3.c22b9ab9.chunk.js": "/testapp/static/js/3.c22b9ab9.chunk.js",
+    "static/js/3.c22b9ab9.chunk.js.map": "/testapp/static/js/3.c22b9ab9.chunk.js.map",
     "index.html": "/testapp/index.html",
-    "static/css/2.191e836a.chunk.css.map": "/testapp/static/css/2.191e836a.chunk.css.map",
-    "static/css/main.dea1b02e.chunk.css.map": "/testapp/static/css/main.dea1b02e.chunk.css.map",
-    "static/js/2.6db0ce69.chunk.js.LICENSE.txt": "/testapp/static/js/2.6db0ce69.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/testapp/static/media/outline-icons.ddae9b1b.woff",
-    "static/media/buscar.adc3c2d1.png": "/testapp/static/media/buscar.adc3c2d1.png",
-    "static/media/logo.6ce24c58.svg": "/testapp/static/media/logo.6ce24c58.svg",
-    "static/media/stats.88013448.png": "/testapp/static/media/stats.88013448.png",
-    "static/media/tarea.cb92cb86.png": "/testapp/static/media/tarea.cb92cb86.png"
+    "static/css/2.a1df276a.chunk.css.map": "/testapp/static/css/2.a1df276a.chunk.css.map",
+    "static/css/main.edb08bb3.chunk.css.map": "/testapp/static/css/main.edb08bb3.chunk.css.map",
+    "static/js/2.2889d891.chunk.js.LICENSE.txt": "/testapp/static/js/2.2889d891.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/testapp/static/media/outline-icons.ddae9b1b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.95e718f1.js",
-    "static/css/2.191e836a.chunk.css",
-    "static/js/2.6db0ce69.chunk.js",
-    "static/css/main.dea1b02e.chunk.css",
-    "static/js/main.126dc1be.chunk.js"
+    "static/js/runtime-main.a8d000ef.js",
+    "static/css/2.a1df276a.chunk.css",
+    "static/js/2.2889d891.chunk.js",
+    "static/css/main.edb08bb3.chunk.css",
+    "static/js/main.acfb429b.chunk.js"
   ]
 }
